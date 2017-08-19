@@ -1,19 +1,20 @@
 # Sharpen-Image
 ##Requirements:
-- python2
-- opencv
+- python
+- opencv (with python-3 bindings enabled)
 
-##Sharpen.py
-Sharpens the image to a degree.
+Sharpens an image to three different degrees.
 
-usage: python Sharpen.py path/to/file
+Usage:
+    #Sharpen
+    $ python Sharpen.py --sharpen </path/to/file>
 
-##Excesive-Sharpen.py
-Sharpens the image excessively.
+    #Excessive Sharpen
+    $ python Sharpen.py --excessie </path/to/file>
 
-usage: python Excessive-Sharpen.py path/to/file
+    #Edge Enhancement
+    $ python Sharpen.py -- edge_enhance </path/to/file>
 
-##Edge-Enhancer.py
-Sharpens "edges" within an image.
-
-usage: python Edge-Enhancer.py path/to/file
+    #Quit window
+    When the image window is active, press q to quit or press
+    any other key to switch between the original image and sharpened image.
