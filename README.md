@@ -5,7 +5,8 @@
 
 Sharpens an image to three different degrees.
 
-Usage:
+Usage:i
+
     #Sharpen
     $ python Sharpen.py --sharpen </path/to/file>
 
