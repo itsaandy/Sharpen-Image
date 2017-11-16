@@ -11,10 +11,10 @@ Usage:
     $ python Sharpen.py --sharpen </path/to/file>
 
     #Excessive Sharpen
-    $ python Sharpen.py --excessie </path/to/file>
+    $ python Sharpen.py --excessive </path/to/file>
 
     #Edge Enhancement
-    $ python Sharpen.py -- edge_enhance </path/to/file>
+    $ python Sharpen.py --edge_enhance </path/to/file>
 
     #Quit window
     When the image window is active, press q to quit or press
