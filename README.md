@@ -4,6 +4,7 @@
 - opencv (with python-3 bindings enabled)
 
 Sharpens an image to three different degrees.
+A "cat.jpg" file is provided as a test.
 
 Usage:
 
