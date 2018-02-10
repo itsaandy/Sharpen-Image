@@ -22,7 +22,7 @@ Usage:
     When the image window is active, press q to quit or press
     any other key to switch between the original image and sharpened image.
 
-# Examples:
+# Example Screenshots:
 
 ## Regular Sharpen
 <img width="400" alt="original" src="https://user-images.githubusercontent.com/17066229/34965349-7b8d604c-faa7-11e7-848c-22f0a1022b5c.png"><img width="400" alt="sharpened" src="https://user-images.githubusercontent.com/17066229/34965352-7cee969a-faa7-11e7-841c-692ecd733843.png">
